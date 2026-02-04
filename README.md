@@ -1,5 +1,6 @@
 # PyBank PyPoll Analysis
-Created a Python script to analyze financial records of a sample company named PyBank using the financial dataset provided in the [budget data](PyBank/Resources/budget_data.csv) CSV file.
+
+**PyBank:** Created a Python script to analyze financial records of a sample company named PyBank using the financial dataset provided in the [budget data](PyBank/Resources/budget_data.csv) CSV file.
 
 The script explores the company's financial performance over time and calculates:
 * Total number of months in the datset
@@ -14,17 +15,7 @@ The script explores the company's financial performance over time and calculates
 
 Used the concepts learned to complete two Python csv challenges: PyBank and PyPoll
 
-**PyBank Assignment**:
 
-The total number of months included in the dataset
-
-The net total amount of "Profit/Losses" over the entire period
-
-The changes in "Profit/Losses" over the entire period, and then the average of those changes
-
-The greatest increase in profits (date and amount) over the entire period
-
-The greatest decrease in profits (date and amount) over the entire period
 
 **PyBank**:
 
