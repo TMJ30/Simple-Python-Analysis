@@ -1,4 +1,9 @@
-# Week3_Callenge
+# Python - Reading CSVs
+Created a python script to analyze financial records of a sample company using the financial dataset provided in [budget_data.csv]
+
+
+
+
 
 Used the concepts learned to complete two Python csv challenges: PyBank and PyPoll
 
