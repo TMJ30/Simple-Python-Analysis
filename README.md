@@ -1,5 +1,5 @@
 # Python - Reading CSVs
-Created a python script to analyze financial records of a sample company using the financial dataset provided in [budgetdata](PyBank/Resources/budget_data.csv)
+Created a python script to analyze financial records of a sample company using the financial dataset provided in the [budget data](PyBank/Resources/budget_data.csv) csv file
 
 
 
