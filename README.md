@@ -1,7 +1,7 @@
-# Python - Reading CSVs
-Created a python script to analyze financial records of a sample company using the financial dataset provided in the [budget data](PyBank/Resources/budget_data.csv) csv.
+# PyBank PyPoll Analysis
+Created a Python script to analyze financial records of a sample company named PyBank using the financial dataset provided in the [budget data](PyBank/Resources/budget_data.csv) CSV file.
 
-I wrote a Python script to analyze a financial dataset and explore the company's performance over time. The script calculates:
+The script explores the company's financial performance over time and calculates:
 * Total number of months in the datset
 * The total net smount of **Profit/Losses** over the entire period
 * The month-to-month changes in **Profit/Losses** and average of those changes
